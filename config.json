@@ -1,0 +1,12 @@
+[
+{
+	"tabName":"天气",
+	"apk":"https://raw.githubusercontent.com/mzule/PluginApkConfig/master/weather.apk",
+	"main":"com.github.mzule.weather.MainFragment"
+},
+{
+	"tabName":"图书",
+	"apk":"https://raw.githubusercontent.com/mzule/PluginApkConfig/master/book.apk",
+	"main":"com.github.mzule.doubanbook.ui.PopularBookFragment"
+}
+]
