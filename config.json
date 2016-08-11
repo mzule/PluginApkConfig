@@ -10,5 +10,11 @@
 	"apk":"https://raw.githubusercontent.com/mzule/PluginApkConfig/master/weather.apk",
 	"main":"com.github.mzule.weather.MainFragment",
 	"version":"0.0.7"
+},
+{
+	"tabName":"科普",
+	"apk":"https://raw.githubusercontent.com/mzule/PluginApkConfig/master/book.apk",
+	"main":"com.github.mzule.doubanbook.ui.PopularBookFragment",
+	"version":"0.0.1"
 }
 ]
