@@ -1,14 +1,14 @@
 [
 {
-	"tabName":"天气",
-	"apk":"https://raw.githubusercontent.com/mzule/PluginApkConfig/master/weather.apk",
-	"main":"com.github.mzule.weather.MainFragment",
-	"version":"0.0.7"
-},
-{
 	"tabName":"图书",
 	"apk":"https://raw.githubusercontent.com/mzule/PluginApkConfig/master/book.apk",
 	"main":"com.github.mzule.doubanbook.ui.PopularBookFragment",
 	"version":"0.0.1"
+},
+{
+	"tabName":"天气",
+	"apk":"https://raw.githubusercontent.com/mzule/PluginApkConfig/master/weather.apk",
+	"main":"com.github.mzule.weather.MainFragment",
+	"version":"0.0.7"
 }
 ]
