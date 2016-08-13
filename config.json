@@ -3,7 +3,7 @@
 	"tabName":"图书",
 	"apk":"https://raw.githubusercontent.com/mzule/PluginApkConfig/master/book.apk",
 	"main":"com.github.mzule.doubanbook.ui.PopularBookFragment",
-	"version":"0.0.1"
+	"version":"0.0.2"
 },
 {
 	"tabName":"天气",
@@ -15,6 +15,6 @@
 	"tabName":"科普",
 	"apk":"https://raw.githubusercontent.com/mzule/PluginApkConfig/master/book.apk",
 	"main":"com.github.mzule.doubanbook.ui.PopularBookFragment",
-	"version":"0.0.1"
+	"version":"0.0.2"
 }
 ]
