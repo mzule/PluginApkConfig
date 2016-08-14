@@ -15,6 +15,6 @@
 	"tabName":"音乐",
 	"apk":"https://raw.githubusercontent.com/mzule/PluginApkConfig/master/music.apk",
 	"main":"com.github.mzule.doubanmusic.ui.MainFragment",
-	"version":"0.0.2"
+	"version":"0.0.3"
 }
 ]
