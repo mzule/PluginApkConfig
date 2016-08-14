@@ -12,9 +12,9 @@
 	"version":"0.0.7"
 },
 {
-	"tabName":"科普",
-	"apk":"https://raw.githubusercontent.com/mzule/PluginApkConfig/master/book.apk",
-	"main":"com.github.mzule.doubanbook.ui.PopularBookFragment",
-	"version":"0.0.2"
+	"tabName":"音乐",
+	"apk":"https://raw.githubusercontent.com/mzule/PluginApkConfig/master/music.apk",
+	"main":"com.github.mzule.doubanmusic.ui.MainFragment",
+	"version":"0.0.1"
 }
 ]
